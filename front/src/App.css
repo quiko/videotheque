@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+.container{
+  width : 1200px
+}
+.form{
+  width : 60%;
+  margin :0 auto;
+  padding: 0 70px
+}
+
